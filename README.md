@@ -24,7 +24,7 @@ Insomnia Core, node.js, Express, Sequelize, dotenv, mySQL
 Follow the online install instructions for these techs
 
 ## Walkthrough Video
-![https://drive.google.com/file/d/1hvO5aeMGWGuSzmWGYOKy9exPwvSi4DlD/view](https://drive.google.com/file/d/1hvO5aeMGWGuSzmWGYOKy9exPwvSi4DlD/view)
+[https://drive.google.com/file/d/1hvO5aeMGWGuSzmWGYOKy9exPwvSi4DlD/view](https://drive.google.com/file/d/1hvO5aeMGWGuSzmWGYOKy9exPwvSi4DlD/view)
 
 ## Contributions
 This project is not open to outside contributions at this time.
